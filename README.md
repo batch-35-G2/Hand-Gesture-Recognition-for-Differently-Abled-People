@@ -5,7 +5,7 @@ PROJECT TITLE : HANDS GESTURE RECOGNITION FOR DIFFERENTLY ABLED PEOPLE
 
 MENTOR NAME : DR. DEEPA S R
 
-USN                            Name <br />
+USN      <t/>     Name <br />
 1KS18CS024      GOUTHAM M <br />
 1KS18CS018      DHANANJAYA S <br />
 1KS18CS033      KIRAN V DAMBAL <br />
